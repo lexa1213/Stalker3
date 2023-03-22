@@ -1,0 +1,54 @@
+body{
+    background-color: brown;
+}
+
+h1 {
+    color: rgb(49, 49, 49);
+    font-size: 40px;
+    text-align: center;
+    box-shadow: 3px 4px 5px 6px #000000;
+}
+
+p {
+    font-size: 22px;
+}
+
+
+li {
+    font-size: 22px;
+}
+
+
+.text-1{
+color: blue;
+}
+
+.text-2{
+    color: beige;
+}
+
+.text-3{
+    color: chartreuse;
+}
+
+.text-4{
+    color: gold;
+}
+
+.text-5{
+    color: green;
+}
+
+.text-6{
+    color: blueviolet;
+}
+
+.photo-1{
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+}
+
+span{ 
+    color: #ffffff;
+}
